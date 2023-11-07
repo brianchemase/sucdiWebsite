@@ -52,7 +52,7 @@ body {
   content: "";
   width: 40px;
   height: 7px;
-  background-color: #f1db25;
+  background-color: #3918ba;
   border-radius: 10px;
   position: absolute;
   bottom: 0;
@@ -173,7 +173,7 @@ body {
 
 .header_top .contact_link-container a i {
   font-size: 20px;
-  color: #f1db25;
+  color: #2f3cc6;
   margin-right: 5px;
 }
 
